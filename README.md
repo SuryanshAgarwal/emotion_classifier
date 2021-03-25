@@ -1,10 +1,13 @@
 # emotion_classifier
 
 This repository consists of trained ML model to classify 7 different emotions of a person 
-					["Angry", "Disgust",
-                     "Fear", "Happy",
-                     "Neutral", "Sad",
-                     "Surprise"]
+					* "Angry" 
+					* "Disgust",
+                     * "Fear" 
+                     * "Happy"
+                     * "Neutral" 
+                     * "Sad",
+                     * "Surprise"
 					 
 ## Geting Started
 
